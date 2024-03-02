@@ -42,7 +42,7 @@ function Map() {
   }, []);
 
   return (
-    <div id="map" className="map" style={{ height: '400px' }}></div>
+    <div id="map" className="map"></div>
   );
 }
 
